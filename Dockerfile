@@ -8,6 +8,9 @@ RUN apt-get install build-essential apt-transport-https lsb-release ca-certifica
 
 RUN apt-get install --yes git
 
+RUN git config --global http.sslVerify "false"
+
+
 RUN curl --silent --location https://deb.nodesource.com/setup_12.x | bash -
 RUN apt-get install --yes nodejs
 

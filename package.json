@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.7.0",
-    "am-components-front": "git+https://e6aa619486e35d6af0364fd1d700efc15fd59b72@github.com/jomedia/am-components-front.git",
+    "am-components-front": "git+https://package.json:zYYymo5bjYruDnRczxq5@gitlab.com/ActionMediaInc/adcenter/am-components-front",    
     "apollo-boost": "^0.4.4",
     "axios": "^0.19.0",
     "base-64": "^0.1.0",
