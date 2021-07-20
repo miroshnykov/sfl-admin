@@ -60,7 +60,7 @@
         },
         methods: {
             sflAdvertisers() {
-                this.$router.push('https://sfl-advertiser.surge.systems/')
+                this.$router.push('https://sfl-advertiser.jatun.systems/')
             },
             offersPage() {
                 this.$router.push('/offers')
